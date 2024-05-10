@@ -5,6 +5,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
+  background-color: #eef7ff;
 }
 
 .song {
@@ -255,6 +256,7 @@ body {
 @media screen and (max-width: 500px) {
   html {
     font-size: 70%;
+    margin: 0;
   }
 
   .container {
