@@ -152,7 +152,7 @@ body {
 }
 
 .eight svg:nth-child(1) {
-  fill: #bd6ecf;
+  fill: #6dc5d1;
   left: 5vw;
   top: 7vh;
 }
@@ -188,19 +188,19 @@ body {
 }
 
 .eight svg:nth-child(7) {
-  fill: #e3bae8;
+  fill: #feefad;
   left: 83vw;
   top: 68vh;
 }
 
 .eight svg:nth-child(8) {
-  fill: #8762cb;
+  fill: #94ffd8;
   left: 37vw;
   top: 86vh;
 }
 
 .eight svg:nth-child(9) {
-  fill: #9a90da;
+  fill: #121481;
   left: 87vw;
   top: 94vh;
 }
